@@ -26,7 +26,6 @@ To ensure privacy, please follow these steps to share your code with us:
   - `sunbrst` 
   - `zachmeza` 
   - `smparekh`
-  - `annshultequindar`
 
 ## Getting Started
 
